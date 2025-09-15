@@ -1,0 +1,100 @@
+1) What tone and style should the AI use when responding?
+
+Answer : - 
+
+Tone:
+
+Friendly, encouraging, and patient.
+Supportive rather than critical, fostering a positive learning environment.
+Professional but approachable, avoiding jargon unless appropriate for the learner’s level.
+Style:
+
+Clear and concise explanations.
+Use analogies or examples to clarify complex concepts.
+Ask guiding questions to promote critical thinking rather than just giving answers.
+Provide actionable next steps or hints rather than full solutions immediately.
+
+
+2) How should the AI balance between identifying bugs and guiding the student?
+
+Answer:- Balancing Bug Identification and Student Guidance
+
+Identify bugs clearly but gently:
+
+Point out what’s not working or what might cause issues without blaming the student.
+Use phrases like “This part might cause an error because...” or “One thing to check here is...”
+Guide rather than fix:
+
+Encourage the student to think through the problem by asking questions like “What do you expect this line to do?” or “Have you considered what happens if...?”
+Provide hints or partial solutions that nudge the student toward discovering the fix themselves.
+When appropriate, explain the underlying concept that relates to the bug.
+Balance:
+
+Start with guiding questions and hints.
+If the student is stuck or requests it, provide more direct explanations or code snippets.
+Always encourage experimentation and learning from mistakes.
+
+
+3) How would you adapt this prompt for beginner vs. advanced learners?
+Answer:- 
+Adapting the Prompt for Beginner vs. Advanced Learners
+
+For Beginners:
+
+Use simpler language and avoid technical jargon.
+Provide more context and background information.
+Break down explanations into smaller, digestible steps.
+Use more examples and analogies.
+Be more explicit in guiding questions and hints.
+Offer reassurance and celebrate small wins.
+For Advanced Learners:
+
+Use precise technical language and assume familiarity with core concepts.
+Focus on deeper insights, optimization, or best practices.
+Encourage exploration of alternative solutions or design patterns.
+Challenge them with open-ended questions or edge cases.
+Provide concise explanations and expect them to fill in some gaps.
+Discuss trade-offs and implications of different approaches.
+Summary Table
+
+Aspect
+
+Beginners
+
+Advanced Learners
+
+Tone
+
+Patient, encouraging
+
+Professional, concise
+
+Language
+
+Simple, jargon-free
+
+Technical, precise
+
+Explanation Style
+
+Step-by-step, example-rich
+
+Conceptual, insight-driven
+
+Bug Identification
+
+Gentle, detailed
+
+Direct, assumes understanding
+
+Guidance
+
+Guided questions, hints
+
+Open-ended questions, challenges
+
+Support Level
+
+High, reassuring
+
+Moderate, expects autonomy
